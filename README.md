@@ -1,5 +1,5 @@
 
-### 📜 **Swedish Caps Lock Remap Script**  
+### 📜 **Swe Lock**  
 
 #### 📌 **Description**  
 This AutoHotkey (AHK) script modifies the behavior of **Caps Lock** to toggle a Swedish input mode on an **English keyboard layout**. When **Caps Lock is ON**, specific keys are remapped to produce **Swedish characters (å, ä, ö)** and other custom remaps, while regular letters function normally. The **Caps Lock LED still works** to indicate when the mode is active.  
