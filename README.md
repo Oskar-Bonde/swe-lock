@@ -28,15 +28,15 @@ This AutoHotkey (AHK) script modifies the behavior of **Caps Lock** to toggle a 
    - Install **AutoHotkey v2.x** (not v1.x).  
 
 2. **Save the script**  
-   - Create a new file named `SwedishCapsLock.ahk`.  
+   - Create a new file named `SweLock.ahk`.  
    - Copy and paste the script into the file.  
 
 3. **Run the script**  
-   - Double-click `SwedishCapsLock.ahk` to activate it.  
+   - Double-click `SweLock.ahk` to activate it.  
 
 4. **Run at startup (optional)**  
    - Press `Win + R`, type `shell:startup`, and press `Enter`.  
-   - Copy `SwedishCapsLock.ahk` into this folder.  
+   - Copy `SweLock.ahk` into this folder.  
    - The script will now start automatically when you log in.  
 
 ---
